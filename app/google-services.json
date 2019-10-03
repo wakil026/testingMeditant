@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "399202154749",
+    "firebase_url": "https://meditant-v10.firebaseio.com",
+    "project_id": "meditant-v10",
+    "storage_bucket": "meditant-v10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399202154749:android:c1c173a5ed004074a82694",
+        "android_client_info": {
+          "package_name": "com.example.meditantv10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399202154749-ct4g4k91000o7qs8h5b0fujclh2rp86c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meditantv10",
+            "certificate_hash": "bc35b978b31f6a17f8ec7170097380e8b3f8698a"
+          }
+        },
+        {
+          "client_id": "399202154749-rscujmtarb0124qtle2ocf71234pma12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUoiYaDKhdsgV1I9XY9zNyw5LT5dUeq-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399202154749-rscujmtarb0124qtle2ocf71234pma12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
